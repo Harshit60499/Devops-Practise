@@ -1,0 +1,6 @@
+git init 
+git status
+git add filneame
+git commit 
+git rm cache filename
+git --config user.name ""
