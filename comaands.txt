@@ -4,3 +4,5 @@ git add filneame
 git commit 
 git rm cache filename
 git --config user.name ""
+git clone
+git remote -v
